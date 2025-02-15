@@ -81,7 +81,7 @@
       "url": "images\/unavail.png"
     },
     {
-      "hash": "sha256-u8AD5wgNuxAWhjBw6wjUywqPdxD8mWP1xK+pb81B3\/4=",
+      "hash": "sha256-2fyVBCXbGAc7NRdnkF4MlzCnFOObjYWH9\/lKpuFBa9k=",
       "url": "index.html"
     },
     {
@@ -1053,11 +1053,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-xNMx4044LWzJBWnz8RZsfgI\/dw3alD4FEYS2+Q5PN7Y=",
+      "hash": "sha256-LMiXJWqEyVjUlri1KxACFmraOFmzEbnaj2WyN6CtwiY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-N4A6yyG5x47MHtNLmhyMCEfXl\/CQwj5F3yBUlJec9GQ=",
+      "hash": "sha256-2GZlqEVDUzjnMIGxFYEk5fBck1S2NVeSP+myJdT36qQ=",
       "url": "_framework\/ADArCWebApp.wasm"
     },
     {
@@ -2321,5 +2321,5 @@
       "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/loader.min.js"
     }
   ],
-  "version": "gXuYXa1u"
+  "version": "WJuj8UqO"
 };
